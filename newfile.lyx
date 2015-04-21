@@ -87,6 +87,56 @@ changed
 \end_layout
 
 \begin_layout Standard
+t
+\end_layout
+
+\begin_layout Standard
+e
+\end_layout
+
+\begin_layout Standard
+s
+\end_layout
+
+\begin_layout Standard
+t
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename test fig.emf
+	lyxscale 25
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+testing figs
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
